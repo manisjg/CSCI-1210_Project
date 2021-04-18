@@ -10092,7 +10092,7 @@ p {
 }
 
 .bg-faded {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, .9);
 }
 
 .btn-xl {
@@ -10254,15 +10254,15 @@ p {
 
 .header-img-left{
     position: absolute;
-    left: 200px;
+    left: 100px;
     top: 0px;
-    width: 275px;
+    width: 373px;
 }
 .header-img-right{
     position: absolute;
-    right: 200px;
-    top: 0px;
-    width: 275px;
+    right: 30px;
+    top: 50px;
+    width: 475px;
 }
 .intro2{
     position: relative;
