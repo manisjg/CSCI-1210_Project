@@ -10264,4 +10264,8 @@ p {
     top: 0px;
     width: 275px;
 }
+.intro2{
+    position: relative;
+    top: -5px;
+}
 
